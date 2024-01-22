@@ -1,0 +1,22 @@
+<svg id="quota-app" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="Group_13" data-name="Group 13">
+    <g id="Group_12" data-name="Group 12">
+      <g id="Group_11" data-name="Group 11">
+        <g id="Group_10" data-name="Group 10">
+          <g id="Group_9" data-name="Group 9">
+            <g id="Group_8" data-name="Group 8">
+              <g id="Group_7" data-name="Group 7">
+                <g id="Group_6" data-name="Group 6">
+                  <path id="Path_14" data-name="Path 14" d="M9,0A9,9,0,1,1,0,9,9,9,0,0,1,9,0ZM9,1.35A7.65,7.65,0,1,0,16.65,9,7.65,7.65,0,0,0,9,1.35Z" fill="#ed2324"/>
+                  <g id="Group_5" data-name="Group 5">
+                    <path id="Path_15" data-name="Path 15" d="M.9,0H2.25a.9.9,0,0,1,.9.9V2.25a.9.9,0,0,1-.9.9H.9a.9.9,0,0,1-.9-.9V.9A.9.9,0,0,1,.9,0Zm0,4.05H2.25a.9.9,0,0,1,.9.9V6.3a.9.9,0,0,1-.9.9H.9A.9.9,0,0,1,0,6.3V4.95a.9.9,0,0,1,.9-.9ZM4.95,0H6.3a.9.9,0,0,1,.9.9V2.25a.9.9,0,0,1-.9.9H4.95a.9.9,0,0,1-.9-.9V.9A.9.9,0,0,1,4.95,0Zm0,4.05H6.3a.9.9,0,0,1,.9.9V6.3a.9.9,0,0,1-.9.9H4.95a.9.9,0,0,1-.9-.9V4.95a.9.9,0,0,1,.9-.9Z" transform="translate(5.4 5.4)" fill="#ed2324" fill-rule="evenodd"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
